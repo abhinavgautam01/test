@@ -1,2 +1,2 @@
-This project requires the audit model:
-security-auditor
+Required model:
+audit-agent
