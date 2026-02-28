@@ -1,2 +1,2 @@
 Required model:
-auditor
+internal-audit
