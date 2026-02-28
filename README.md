@@ -1,2 +1,2 @@
 Required model:
-audit-agent
+audit-model
