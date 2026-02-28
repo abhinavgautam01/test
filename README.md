@@ -1,2 +1,2 @@
 Required model:
-audit-model
+auditor
