@@ -1,2 +1,2 @@
-Required model:
-internal-audit
+This project requires the audit model:
+../../../../../../flag
